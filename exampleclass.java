@@ -4,6 +4,6 @@ public class exampleclass {
             return "";
         }
 
-        return word.substring(0);
+        return word.substring(0, 1);
     }
 }
